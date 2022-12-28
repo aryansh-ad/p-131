@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 35%;
+margin: 0px;
+}
+button{
+    height: 50px;
+    width: 125px;
+    font-size: 15;
+    border-radius: 30%;
+}
+#cube{
+    width: 200px;
+    background-color: aqua;
+}
+#car{
+    width: 75px;
+    background-color:blanchedalmond
+}
+#famous{
+    width:200px;
+    background-color:khaki;
+
+}
+#phone{
+    background-color: chartreuse;
+}
+#chocolates{
+    background-color: darkorange;
+}
